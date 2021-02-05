@@ -3,4 +3,4 @@
 
  Работает с [официальным ядром](https://github.com/stm32duino/Arduino_Core_STM32) и с [кастомным ядром](https://github.com/rogerclarkmelbourne/Arduino_STM32)
 
-* [Видео с примером] (https://youtu.be/Usj4yP5L5pQ)
+* [Видео с примером](https://youtu.be/Usj4yP5L5pQ)
